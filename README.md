@@ -59,6 +59,7 @@ We are expanding the functionality to also work on the Ethereum and BNB chains. 
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/BettingSite-MultiChain.git
+git clone https://github.com/Rahman1014/BettingSite-MultiChain.git
 cd BettingSite-MultiChain
 npm install
+

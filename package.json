@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "server": "nodemon server",
     "start": "npm-run-all --parallel server client",
     "dev": "npm-run-all --parallel server client",
     "client": "vite",
     "build": "vite build",
+    "server": "nodemon server",
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
